@@ -1,4 +1,4 @@
-# 💼 SQL Assignment – Investor Portfolio Management System
+# 💼 Investor Portfolio Management System
 
 This SQL project was created as part of my **Meta Database Engineer Certificate** journey.  
 It simulates a real-world investing platform, where we manage client portfolios and track their investments using relational databases.
